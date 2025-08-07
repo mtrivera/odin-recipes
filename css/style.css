@@ -2,3 +2,9 @@
   max-width: 600px;
   margin: 0 auto;
 }
+
+.title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: rgb(79, 109, 122);
+}
