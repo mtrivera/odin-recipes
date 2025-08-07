@@ -8,3 +8,14 @@
   font-size: 2.5rem;
   color: rgb(79, 109, 122);
 }
+
+.nav {
+  padding: 0 1rem;
+}
+
+.nav>li {
+  list-style-type: none;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border: 3px solid rgb(234, 234, 234);
+}
