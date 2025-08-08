@@ -31,3 +31,9 @@
   padding: 1rem;
   font-size: 1.25rem;
 }
+
+.recipe-photo {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
