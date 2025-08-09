@@ -39,6 +39,7 @@
 }
 
 .ordered-list-container {
+  padding: 1rem;
   border: 3px dotted rgb(192, 214, 223);
 }
 
