@@ -52,3 +52,8 @@
 .list-title {
   margin: 0;
 }
+
+.recipe-container {
+  padding: 1rem;
+  background: rgba(232, 218, 178, 0.3);
+}
