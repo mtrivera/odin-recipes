@@ -38,15 +38,9 @@
   max-width: 100%;
 }
 
-.ordered-list-container {
-  padding: 1rem;
-  border: 3px dotted rgb(192, 214, 223);
-}
-
-.unordered-list-container {
+.list-container {
   margin: 1rem 0;
   padding: 1rem;
-  border: 3px solid rgba(192, 214, 223, 0.3);
 }
 
 .list-title {
