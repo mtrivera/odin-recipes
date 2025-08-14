@@ -50,3 +50,7 @@
   padding: 1rem;
   background: rgba(232, 218, 178, 0.3);
 }
+
+.recipe-detail {
+  padding-left: 1rem;
+}
